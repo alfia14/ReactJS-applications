@@ -1,5 +1,4 @@
 # Web applications using ReactJS
-Live demo 
-[https://alfia14.github.io/ReactJS-applications](url)
+Website demo : [link text itself]: [http://alfia14github.io](http://alfia14.github.io/ReactJS-applications)
 ## © Regents of the University of Minnesota. All rights reserved.
 
